@@ -1,0 +1,13 @@
+## python3 -m venv venv
+##source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+##Install the required packages:
+##uv pip install -r requirements.txt
+##python3 src/app.py
+##python3 -m unittest discover -s tests
+##http://127.0.0.1:5000
+
+#git config --global user.name "bmaguluri"
+#git config --global user.email "jayabmaguluri@gmail.com"
+
+## Claude instructions
+# /init - generates the reads the project and generates claud.md file 
