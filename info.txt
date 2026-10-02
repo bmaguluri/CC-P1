@@ -11,3 +11,6 @@
 
 ## Claude instructions
 # /init - generates the reads the project and generates claud.md file 
+
+# creating custom slash commands
+# create a folder ./claude/commands/explain_the_file.md
